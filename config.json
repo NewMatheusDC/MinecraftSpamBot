@@ -1,17 +1,17 @@
 {
     "crackedusernameprefix": "BOT",
 
-    "ip": "server.com",
-    "port": 25565,
-    "version": "1.12.2",
+    "ip": "br-01.stabilityhost.com.br",
+    "port": 25662,
+    "version": "1.21.4",
 
     "loginintervalms": 1000,
 
     "altening": false,
     "altening_token": "",
 
-    "spammessage": "spam",
-    "spamintervalms": 1500,
+    "spammessage": "VINGANÇA HAHAHAHAHAHAHHAHHAHHAAHHA",
+    "spamintervalms": 1000,
 
     "physics": false
 }
