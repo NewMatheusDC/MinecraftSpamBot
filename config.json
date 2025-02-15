@@ -7,7 +7,7 @@
 
     "loginintervalms": 1000,
 
-    "altening": trye,
+    "altening": true,
     "altening_token": "",
 
     "spammessage": "spammed",
