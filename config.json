@@ -7,11 +7,11 @@
 
     "loginintervalms": 1000,
 
-    "altening": false,
+    "altening": trye,
     "altening_token": "",
 
-    "spammessage": "VINGANÇA HAHAHAHAHAHAHHAHHAHHAAHHA",
-    "spamintervalms": 1000,
+    "spammessage": "spammed",
+    "spamintervalms": 950,
 
     "physics": false
 }
